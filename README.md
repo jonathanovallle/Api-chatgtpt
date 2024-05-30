@@ -4,7 +4,7 @@ This is an api for chatgpt with nodejs
 
 ## Installation
 
-Use the package npm
+Use the npm
 
 ```bash
 npm intall
